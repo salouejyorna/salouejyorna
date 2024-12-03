@@ -92,7 +92,7 @@ Passionné par le développement logiciel, je me spécialise en développement f
 ## 🌐 Contactez-moi
 
 - 📧 **Email :** [salouejyorna@gmail.com](mailto:salouejyorna@gmail.com)
-- 💼 **LinkedIn :** [linkedin.com/in/yorna-salouej](https://www.linkedin.com/in/yorna-salouej)
+- 💼 **LinkedIn :** [linkedin.com/in/yorna-salouej](https://www.linkedin.com/in/yorna-salouej-572530338/)
 - 💻 **GitHub :** [github.com/salouejyorna](https://github.com/salouejyorna)
 
 ---
