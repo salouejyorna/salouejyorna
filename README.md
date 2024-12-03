@@ -1,6 +1,6 @@
 # 👩‍💻 Yorna Salouej
 
-Étudiante en troisième année à l'Institut Supérieur des Études Technologiques de Charguia, je suis passionnée par le développement des systèmes d'information et spécialisée dans les architectures logicielles modernes. Mon objectif est de créer des solutions innovantes qui répondent aux besoins réels tout en enrichissant mes compétences techniques.
+Passionné par le développement logiciel, je me spécialise en développement full-stack. Je m'épanouis en construisant des applications centrées sur l'utilisateur qui résolvent des problèmes réels tout en apprenant continuellement et en explorant de nouvelles technologies.
 
 ---
 
