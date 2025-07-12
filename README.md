@@ -7,7 +7,7 @@ Passionné par le développement logiciel, je me spécialise en développement f
 ## 🌟 À propos de moi
 
 - 🎓 **Formation :** Licence en développement des systèmes d'information (2022-2025)
-- 💡 **Intérêts :** Développement full-stack, architecture orientée services, intelligence artificielle
+- 💡 **Intérêts :** Développement full-stack, architecture orientée services, intelligence artificielle,automatisation des processus, DevOps, Internet des objets (IoT), innovation numérique et transformation digitale, data science, GraphQL, développement mobile, développement web, UX/UI design, data engineering, big data, analyse prédictive, blockchain, 
 - 📍 **Localisation :** Ariana, Tunisie
 
 ---
