@@ -9,7 +9,6 @@ Passionné par le développement logiciel, je me spécialise en développement f
 - 🎓 **Formation :** Licence en développement des systèmes d'information (2022-2025)
 - 💡 **Intérêts :** Développement full-stack, architecture orientée services, intelligence artificielle
 - 📍 **Localisation :** Ariana, Tunisie
-- 📅 **Disponible pour un stage de fin d'études :** Février 2025 (durée : 4 mois)
 
 ---
 
@@ -59,6 +58,10 @@ Passionné par le développement logiciel, je me spécialise en développement f
 
 ## 💼 Projets
 
+### **EasyCRMBuilder**
+- **Description :**  Un plugin intégré à XrmToolBox permettant d’automatiser la configuration du CRM dans Dynamics 365
+- **Technologies :** XrmToolBox, WinForms, PowerApps, c#, Dynamics 365
+
 ### **Le Petit Délice**
 - **Description :** Application de gestion de restaurant basée sur une architecture SOA
 - **Technologies :** Spring Boot, C#, MySQL
@@ -68,7 +71,7 @@ Passionné par le développement logiciel, je me spécialise en développement f
 - **Description :** Réseau social pour développeurs avec collaboration en temps réel
 - **Technologies :** React (TypeScript), Node.js, MongoDB, Socket.io
 
-### **Plateforme de Bourses**
+### **Oasis**
 - **Description :** Application web pour centraliser les opportunités de bourses
 - **Technologies :** React, Node.js, MongoDB, intégration d'IA pour des recommandations
 
@@ -81,7 +84,7 @@ Passionné par le développement logiciel, je me spécialise en développement f
 ## 🏆 Certifications
 
 - **Scrum Fundamentals Certified**
-- **Introduction to AI** (365 Data Science)
+- **Introduction to AI** 
 - **Data Science and Analytics**
 - **Java Programming**
 
@@ -89,7 +92,7 @@ Passionné par le développement logiciel, je me spécialise en développement f
 
 ## 🌐 Contactez-moi
 
-- 📧 **Email :** [salouejyorna@gmail.com](mailto:salouejyorna@gmail.com)
+- 📧 **Email :** [yornasj@gmail.com](mailto:salouejyorna@gmail.com)
 - 💼 **LinkedIn :** [linkedin.com/in/yorna-salouej](https://www.linkedin.com/in/yorna-salouej-572530338/)
 - 💻 **GitHub :** [github.com/salouejyorna](https://github.com/salouejyorna)
 
